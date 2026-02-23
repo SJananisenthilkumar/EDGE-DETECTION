@@ -31,7 +31,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('leaf.jpeg') 
+image = cv2.imread('leaf.jpg') 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 sobelx  = cv2.Sobel(src = gray_image, ddepth = cv2.CV_64F, dx = 1, dy = 0, ksize = 3) 

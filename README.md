@@ -1,6 +1,6 @@
 # EDGE-DETECTION
-# NAME : JANANI S
-# REG NO : 212223230086
+## NAME : JANANI S
+## REG NO : 212223230086
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
